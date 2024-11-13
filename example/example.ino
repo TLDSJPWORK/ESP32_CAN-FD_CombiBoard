@@ -1,7 +1,7 @@
 //——————————————————————————————————————————————————————————————————————————————
 // CAN FD CombiBoard for ESP32 Example Software
 //
-// Copyright (c) 2022 TLDSJPWORK
+// Copyright (c) 2024 TLDSJPWORK
 //
 // Released under the MIT license.
 // see https://opensource.org/licenses/MIT
