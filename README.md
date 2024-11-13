@@ -41,4 +41,4 @@ MCP2518 + MCP2562FD CAN FD Busモジュール を ESP32 DevKit で簡単に使�
 - [Arduinoライブラリ acan2517FD](https://github.com/pierremolinaro/acan2517FD)
 - [Arduinoライブラリ acan2517](https://github.com/pierremolinaro/acan2517)
 
-- [サンプルプログラム](examble)
+- [サンプルプログラム](/example/example.ino)
