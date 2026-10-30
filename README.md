@@ -22,8 +22,8 @@ MCP2518 + MCP2562FD CAN FD Busモジュール を ESP32 DevKit で簡単に使�
 ![UseCase_01](/docs/UseCase_01.jpg)
 
 ### 販売ページ
-スイッチサイエンス様への委託を予定
-<!-- - [スイッチサイエンス様](https://ssci.to/10018) -->
+スイッチサイエンス様にて委託販売中
+- [CAN FD CombiBoard for ESP32の販売ページ](https://www.switch-science.com/products/10033)
 
 ### 資料
 - [サポートページ](https://github.com/TLDSJPWORK/ESP32_CAN-FD_CombiBoard)
